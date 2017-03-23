@@ -1,0 +1,120 @@
+BCSymbolMap Version: 2.0
+Apple LLVM version 8.0.0 (clang-800.0.42.1)
+/Users/doki/Desktop/code11/RegionDriveforN/Pods/Target Support Files/GTMAppAuth/GTMAppAuth-dummy.m
+/Users/doki/Desktop/code11/RegionDriveforN/Pods
++[GTMAppAuthFetcherAuthorization(Keychain) authorizationFromKeychainForName:]
++[GTMAppAuthFetcherAuthorization(Keychain) removeAuthorizationFromKeychainForName:]
++[GTMAppAuthFetcherAuthorization(Keychain) saveAuthorization:toKeychainForName:]
+/Users/doki/Desktop/code11/RegionDriveforN/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization+Keychain.m
++[GTMAppAuthFetcherAuthorizationArgs argsWithRequest:delegate:selector:completionHandler:]
+-[GTMAppAuthFetcherAuthorizationArgs request]
+-[GTMAppAuthFetcherAuthorizationArgs setRequest:]
+-[GTMAppAuthFetcherAuthorizationArgs delegate]
+-[GTMAppAuthFetcherAuthorizationArgs setDelegate:]
+-[GTMAppAuthFetcherAuthorizationArgs selector]
+-[GTMAppAuthFetcherAuthorizationArgs setSelector:]
+-[GTMAppAuthFetcherAuthorizationArgs completionHandler]
+-[GTMAppAuthFetcherAuthorizationArgs setCompletionHandler:]
+-[GTMAppAuthFetcherAuthorizationArgs error]
+-[GTMAppAuthFetcherAuthorizationArgs setError:]
+-[GTMAppAuthFetcherAuthorizationArgs .cxx_destruct]
+-[GTMAppAuthFetcherAuthorization init]
+-[GTMAppAuthFetcherAuthorization initWithAuthState:]
+-[GTMAppAuthFetcherAuthorization initWithAuthState:serviceProvider:userID:userEmail:userEmailIsVerified:]
++[GTMAppAuthFetcherAuthorization supportsSecureCoding]
+-[GTMAppAuthFetcherAuthorization initWithCoder:]
+-[GTMAppAuthFetcherAuthorization encodeWithCoder:]
++[GTMAppAuthFetcherAuthorization configurationForGoogle]
++[GTMAppAuthFetcherAuthorization extractIDTokenClaimsNoVerification:]
+-[GTMAppAuthFetcherAuthorization authorizeRequest:completionHandler:]
+-[GTMAppAuthFetcherAuthorization authorizeRequest:delegate:didFinishSelector:]
+-[GTMAppAuthFetcherAuthorization authorizeRequestArgs:]
+___55-[GTMAppAuthFetcherAuthorization authorizeRequestArgs:]_block_invoke
+___copy_helper_block_
+___destroy_helper_block_
+-[GTMAppAuthFetcherAuthorization authorizeRequestImmediateArgs:accessToken:error:]
+___82-[GTMAppAuthFetcherAuthorization authorizeRequestImmediateArgs:accessToken:error:]_block_invoke
+___copy_helper_block_.203
+___destroy_helper_block_.204
+-[GTMAppAuthFetcherAuthorization invokeCallbackArgs:]
+-[GTMAppAuthFetcherAuthorization stopAuthorization]
+-[GTMAppAuthFetcherAuthorization stopAuthorizationForRequest:]
+-[GTMAppAuthFetcherAuthorization isAuthorizingRequest:]
+-[GTMAppAuthFetcherAuthorization isAuthorizedRequest:]
+-[GTMAppAuthFetcherAuthorization canAuthorize]
+-[GTMAppAuthFetcherAuthorization primeForRefresh]
+-[GTMAppAuthFetcherAuthorization authState]
+-[GTMAppAuthFetcherAuthorization userEmail]
+-[GTMAppAuthFetcherAuthorization shouldAuthorizeAllRequests]
+-[GTMAppAuthFetcherAuthorization setShouldAuthorizeAllRequests:]
+-[GTMAppAuthFetcherAuthorization fetcherService]
+-[GTMAppAuthFetcherAuthorization setFetcherService:]
+-[GTMAppAuthFetcherAuthorization serviceProvider]
+-[GTMAppAuthFetcherAuthorization userID]
+-[GTMAppAuthFetcherAuthorization userEmailIsVerified]
+-[GTMAppAuthFetcherAuthorization .cxx_destruct]
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorizationArgs._request
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorizationArgs._delegate
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorizationArgs._selector
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorizationArgs._completionHandler
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorizationArgs._error
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorization._authState
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorization._authorizationQueue
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorization._serviceProvider
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorization._userID
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorization._userEmail
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorization._userEmailIsVerified
+___block_descriptor_tmp
+___block_descriptor_tmp.206
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorization._shouldAuthorizeAllRequests
+_OBJC_IVAR_$_GTMAppAuthFetcherAuthorization._fetcherService
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_PROTOCOL_$_GTMFetcherAuthorizationProtocol
+l_OBJC_LABEL_PROTOCOL_$_GTMFetcherAuthorizationProtocol
+l_OBJC_PROTOCOL_$_NSCoding
+l_OBJC_LABEL_PROTOCOL_$_NSCoding
+l_OBJC_PROTOCOL_$_NSSecureCoding
+l_OBJC_LABEL_PROTOCOL_$_NSSecureCoding
+/Users/doki/Desktop/code11/RegionDriveforN/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.m
+/Users/doki/Desktop/code11/RegionDriveforN/Pods/GTMAppAuth/Source/GTMAppAuthFetcherAuthorization.h
+/Users/doki/Desktop/code11/RegionDriveforN/Pods/Headers/Private/GTMSessionFetcher/GTMSessionFetcher.h
+__destroy_helper_block_
+__copy_helper_block_
+__82-[GTMAppAuthFetcherAuthorization authorizeRequestImmediateArgs:accessToken:error:]_block_invoke
+__55-[GTMAppAuthFetcherAuthorization authorizeRequestArgs:]_block_invoke
++[GTMKeychain removePasswordFromKeychainForName:]
++[GTMKeychain passwordFromKeychainForName:]
++[GTMKeychain savePasswordToKeychainForName:password:]
++[GTMKeychain savePasswordToKeychainForName:password:accessibility:error:]
++[GTMKeychain savePasswordDataToKeychainForName:passwordData:]
++[GTMKeychain passwordDataFromKeychainForName:]
++[GTMAppAuthGTMOAuth2Keychain defaultKeychain]
++[GTMAppAuthGTMOAuth2Keychain setDefaultKeychain:]
+-[GTMAppAuthGTMOAuth2Keychain keyForService:account:]
++[GTMAppAuthGTMOAuth2Keychain keychainQueryForService:account:]
+-[GTMAppAuthGTMOAuth2Keychain keychainQueryForService:account:]
+-[GTMAppAuthGTMOAuth2Keychain passwordForService:account:error:]
+-[GTMAppAuthGTMOAuth2Keychain passwordDataForService:account:error:]
+-[GTMAppAuthGTMOAuth2Keychain removePasswordForService:account:error:]
+-[GTMAppAuthGTMOAuth2Keychain setPassword:forService:accessibility:account:error:]
+-[GTMAppAuthGTMOAuth2Keychain setPasswordData:forService:accessibility:account:error:]
+_gGTMAppAuthFetcherAuthorizationGTMOAuth2DefaultKeychain
+/Users/doki/Desktop/code11/RegionDriveforN/Pods/GTMAppAuth/Source/iOS/GTMKeychain_iOS.m
++[GTMOAuth2KeychainCompatibility persistenceResponseStringForAuthorization:]
++[GTMOAuth2KeychainCompatibility authorizeFromKeychainForName:serviceProvider:tokenURL:redirectURI:clientID:clientSecret:]
++[GTMOAuth2KeychainCompatibility authorizeFromPersistenceString:serviceProvider:tokenURL:redirectURI:clientID:clientSecret:]
++[GTMOAuth2KeychainCompatibility authForGoogleFromKeychainForName:clientID:clientSecret:]
++[GTMOAuth2KeychainCompatibility removeAuthFromKeychainForName:]
++[GTMOAuth2KeychainCompatibility saveAuthToKeychainForName:authentication:]
++[GTMOAuth2KeychainCompatibility encodedQueryParametersForDictionary:]
++[GTMOAuth2KeychainCompatibility encodedOAuthValueForString:]
++[GTMOAuth2KeychainCompatibility dictionaryWithResponseString:]
++[GTMOAuth2KeychainCompatibility unencodedOAuthParameterForString:]
++[GTMOAuth2KeychainCompatibility googleAuthorizationURL]
++[GTMOAuth2KeychainCompatibility googleTokenURL]
++[GTMOAuth2KeychainCompatibility googleRevocationURL]
++[GTMOAuth2KeychainCompatibility googleUserInfoURL]
++[GTMOAuth2KeychainCompatibility nativeClientRedirectURI]
+/Users/doki/Desktop/code11/RegionDriveforN/Pods/GTMAppAuth/Source/GTMOAuth2KeychainCompatibility/GTMOAuth2KeychainCompatibility.m
+/Users/doki/Desktop/code11/RegionDriveforN/Build/Intermediates/ArchiveIntermediates/RegionDriveforN/IntermediateBuildFilesPath/Pods.build/Release-iphoneos/GTMAppAuth.build/DerivedSources/GTMAppAuth_vers.c

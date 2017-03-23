@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AppAuth.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>GTMAppAuth.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>GTMSessionFetcher.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>GoogleAPIClient.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-RegionDriveforN.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>008FFD459911D0E9A5039E829BF7EA8B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>228A8785B1C6C6BFE8E1C8D261204DE3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>39EFD830E6F82181B9D6F38B0A15FFFD</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DBE8C01291DE575294FBEC90EE38F92D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>ED571467F7D39E8F20E0F6D07F97B903</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

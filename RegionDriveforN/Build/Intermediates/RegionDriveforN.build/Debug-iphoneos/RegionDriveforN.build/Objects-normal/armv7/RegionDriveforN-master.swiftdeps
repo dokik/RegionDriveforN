@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "61445fe2d52e7dd9933c71d4f849c5b0"
+build_time: [543562938, 835354000]
+inputs:
+  "/Users/doki/git/RegionDriveforN/RegionDriveforN/RegionDriveforN/ViewController.swift": [539681443, 0]
+  "/Users/doki/git/RegionDriveforN/RegionDriveforN/RegionDriveforN/AppDelegate.swift": [532153726, 0]
